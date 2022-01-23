@@ -1,5 +1,4 @@
-# odin-recipes
-
+#Recipes
 
 This project is a basic recipe website. I will have links to the recipes in my website.
 Things I've learned
